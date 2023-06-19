@@ -26,7 +26,7 @@ Hence, the system proves to be the ideal solution for our client as well as his 
 #### Preview: 
 
 
-https://github.com/SLIITITP/ITP_WE_B01_TW_14/assets/96247301/ca900e4e-5694-41f5-9ea8-210fbfac2458
+
 
 
 
